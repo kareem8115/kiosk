@@ -1,0 +1,254 @@
+{
+  "message": "hello i18n !!",
+  "language": {
+    "lang": "en",
+    "dir": "ltr"
+  },
+  "home": {
+
+    "welcomeMessage1": "Welcome to Najiz device ",
+    "welcomeMessage2": "for Self-Judicial Services",
+    "infoButton": "Information Services",
+    "ElectronicService": "Electronic Service"
+  },
+  "infoPage": {
+    "title": "Information Services",
+    "attorney": "Attorney",
+    "marriage": "Marriage Contract",
+    "realStateDeed": "Real Estate Deed",
+
+    "admission": "Admission",
+    "transaction": "Transaction",
+
+    "mojlicense": "Juridical License",
+    "furijatBills": "Furijat Bills",
+    "inhaatDeed": "Social Status",
+    "socialStatus": "Social Status",
+    "hasrWartha": "Heirs Inventory",
+    "EthbatTalaq": "Divorce Proof",
+    "EthbatZawaj": "Marriage Proof",
+    "EthbatRagaa": "Return Proof",
+    "EthbatMongez": "Endowment Completed Proof",
+    "EthbatWassiaZawjia": "Proof of Will",
+    "EthbatDokhol": "Proof of non-consummation of wife",
+    "EthbatKholaa": "Dislocation Proof",
+    "EthbatHadana": "Custody Proof",
+    "tawthiqRedaa": "Breastfeeding Documentation",
+    "nextButton": "More",
+    "homeButton": "Home",
+    "prevButton": "Back"
+
+
+  },
+  "attorneyPage": {
+    "title": "Attorney Inquiry",
+    "subTitle": "A service that helps you inquire about the validity of the attorney issued by the Ministry of Justice",
+    "attorneylabel": "Attorney Number",
+    "nartionalIdLabel": "National Id",
+    "attorneyPlaceholder": "Please Inset Attoney code",
+    "nartionalIdPlaceholder": "Please Inset national Id",
+    "infoButton": "Information Services",
+    "submitButton": "Inquiry",
+    "resetButton": "New Inquiry"
+  },
+
+  "attorneyDetailsPage": {
+    "title": "Attorney Inquiry",
+    "subTitle": "A service that helps you inquire about the validity of the attorney issued by the Ministry of Justice",
+    "attorneylabel": "Attorney Number",
+    "nartionalIdLabel": "National Id",
+    "attorneyPlaceholder": "Please Inset Attoney code",
+    "nartionalIdPlaceholder": "Please Inset national Id",
+    "infoButton": "Information Services",
+    "submitButton": "Inquiry",
+    "resetButton": "New Inquiry"
+  },
+  "detailsPage": {
+    "attorneyMessage": "To view the attorney details on the mobile, scan Qr code",
+    "infoButton": "Information Services",
+    "submitButton": "Inquiry",
+    "resetButton": "New Inquiry"
+  },
+
+  "marriagePage": {
+    "title": "Marriage Contract Inquiry",
+    "subTitle": "A service that helps you inquire about the validity of the marriage contract registered electronically only",
+    "contractNumberlabel": "Contract Number",
+    "nartionalIdLabel": "national Id",
+    "attorneyPlaceholder": "Contract Number",
+    "nartionalIdPlaceholder": " national Id of one of the spouses ",
+    "infoButton": "Information Services",
+    "submitButton": "Inquiry",
+    "resetButton": "New Inquiry"
+
+  },
+  "MarriagDetailsPage": {
+    "title": "Marriage Contract Inquiry",
+    "contractStatusLabel": "Contract Status",
+    "contractCodeLabel": "Contract Number",
+    "identityLabel": "National Id",
+    "courtLabel": "Court",
+    "husbandNameLabel": "Husband",
+    "husbandIdLabel": "Husband National Id",
+    "wifeNameLabel": "Wife",
+    "wifeIdLabel": "Wife National Id",
+    "contractDateLabel": "Contract Date",
+    "approveDateLabel": "Approve Date",
+    "noData": "No data Found"
+  },
+
+  "deedPage": {
+    "title": "Inquiry About a Real State Deed",
+    "subTitle": "A service that helps you inquire about a real estate deed registered electronically",
+    "deednolabel": "Deed  Number",
+    "nartionalIdLabel": "An owner's ID number",
+    "deednoPlaceholder": "Deed No",
+    "nartionalIdPlaceholder": "National Id",
+    "infoButton": "Information Services",
+    "submitButton": "Inquiry",
+    "resetButton": "New Inquiry"
+
+  },
+  "deedDetailsPage": {
+    "title": "Inquiry About a Real State Deed",
+    "numberLabel": "Deed  Number",
+    "reasonLabel": "Reason",
+    "deedStatusLabel": "Deed Status",
+    "realStateStatusLabel": "Real Estate Status",
+    "noData": "No data Found"
+  },
+  "admissionPage": {
+    "title": "Inquiry About Admission",
+    "subTitle": "A service that helps you inquire about the validity of the statement issued by the notaries public",
+    "admissionlabel": "Document Number",
+    "nartionalIdLabel": "National Id",
+    "admissionPlaceholder": "Document Number",
+    "nartionalIdPlaceholder": "National Id",
+    "infoButton": "Information Services",
+    "submitButton": "Inquiry",
+    "resetButton": "New Inquiry"
+
+  },
+  "AdmissionDetailsPage": {
+    "title": "Inquiry About Admission",
+    "admissionStatusLabel": "Admission Status",
+    "admissionCodeLabel": "Admission Number",
+    "identityLabel": "National Id",
+    "validityLabel": "Validity",
+    "issueGregLabel": "Issue Date",
+    "admissionTypeLabel": "Admission Type",
+    "placeNameLabel": "Place",
+    "noData": "No data Found"
+
+  },
+  "FurijatBillPage": {
+    "title": "Inquiry about Farajat bills",
+    "subTitle": "A service that helps you inquire about Farjat initiative bills",
+    "billNumberlabel": "Bill Number",
+    "billNumberPlaceholder": "Bill Number",
+    "infoButton": "Information Services",
+    "submitButton": "Inquiry",
+    "resetButton": "New Inquiry"
+
+  },
+  "FurijatBillDetailsPage": {
+    "title": "Inquiry about Farajat bills",
+    "BillStatusLabel": "Bill Status",
+    "BillNumberLabel": "Bill Number",
+    "SocialIdLabel": "National Id",
+    "BillDueAmountLabel": "Bill Amount",
+    "BillPaidAmountLabel": "Bill Paid Amount",
+    "BillRestAmountLabel": "Bill Remaining Amount",
+    "noData": "No data Found"
+
+  },
+
+  "TransactionPage": {
+    "title": "Inquiry about a transaction",
+    "subTitle": "A service that helps you inquire about a transaction",
+    "TransactionIdlabel": "Transaction Number",
+    "TransactionYearLabel": "Transaction Year",
+    "TransactionIdPlaceholder": "Transaction Number",
+    "TransactionYearPlaceholder": "Transaction Hijri Year",
+    "infoButton": "Information Services",
+    "submitButton": "Inquiry",
+    "resetButton": "New Inquiry"
+
+  },
+  "transactionDetailsPage": {
+    "title": "Inquiry about a transaction",
+    "subTitle": "A service that helps you inquire about a transaction",
+    "transactionNumberLabel": "Transaction Number",
+    "statusLabel": "Status",
+    "transactionTypeLabel": "Transaction Type",
+    "sourceTypeLabel": "Source Type",
+    "transactionYearLabel": "Transaction Year",
+    "currentDepartmentLabel": "Current Administration",
+    "inboundDocumentNumber": "Inbound Document Number",
+    "inboundDateH": "Inbound Document Date",
+    "attachments": "Attachments",
+    "remarks": "Remarks",
+    "noData": "No data Found"
+
+  },
+  "inhaatDeedPage": {
+    "title": "Check ",
+    "subTitle": "A service that helps you check ",
+    "deedNoLabel": "Deed Number",
+    "socialIdLabel": "National Id",
+    "deedNoPlaceholder": "Deed Number",
+    "socialIdPlaceholder": "National Id",
+    "infoButton": "Information Services",
+    "submitButton": "Inquiry",
+    "resetButton": "New Inquiry"
+
+  },
+  "inhaatDeedDetailsPage": {
+    "title": "Check ",
+    "subTitle": "A service that helps you check ",
+    "deedNoLabel": "Deed Number",
+    "documentationType": "Documentation Type",
+    "documentationDate": "Documentation Date",
+    "statusLabel": "Status",
+    "beneficiaryNameLabel": "Beneficiary Name",
+    "beneficiaryIdLabel": "Beneficiary National Id",
+    "centerNameLabel": "Center Name",
+    "DeceasedData": "Deceased's Data",
+    "HeirsData": "Heirs 's Date",
+    "NationalId": "National Id",
+    "DOB": "Date Of Birth",
+    "Nationaility": "Nationaility",
+    "HeirStatus": "Heir Status",
+    "noData": "No data Found"
+
+  },
+
+
+  "jurLicensePage": {
+    "title": "Inquiry about a judicial license",
+    "subTitle": " A service that helps you inquire about the validity of licenses issued by the Ministry of Justice",
+    "licenseTypeLabel": "License Type",
+    "licenseNumLabel": "License Number",
+    "licenseNumPlaceholder": "License Number",
+    "lawyerButtonLabel": "Lawyer",
+    "traineeButtonLabel": "Trainee",
+    "pleadButtonLabel": "License to represent a private legal person",
+    "infoButton": "Information Services",
+    "submitButton": "Inquiry",
+    "resetButton": "New Inquiry"
+
+
+  },
+  "jurLicenseDetailsPage": {
+    "title": "Inquiry about a judicial license",
+    "licenseType": "License Type",
+    "licenseNo": "License Number",
+    "noData": "No data Found",
+    "serviceUnavailable":"Service Not Avilable Right Now.Please Try again later"
+
+  }
+
+
+
+
+}

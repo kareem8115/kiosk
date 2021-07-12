@@ -1,0 +1,262 @@
+{
+  "message": "hello i18n !!",
+  "language": {
+    "lang": "ar",
+    "dir": "rtl"
+  },
+  "home": {
+    "welcomeMessage1": "نرحب بكم في جهاز ناجز للخدمات",
+    "welcomeMessage2": " العدلية الذاتية",
+    "infoButton": "دخول مباشر للاستعلامات",
+    "ElectronicService": "الدخول للخدمات الالكترونية"
+  },
+  "infoPage": {
+    "title": "خدمات الاستعلامات",
+    "attorney": "وكالة",
+    "marriage": "عقد زواج",
+    "realStateDeed": "صك عقاري",
+
+    "admission": "اقرار",
+    "transaction": "معاملة",
+
+    "mojlicense": "ترخيص عدلي",
+    "furijatBills": "فواتير فرجت",
+    "inhaatDeed": "حالة اجتماعية",
+    "hasrWartha": "حصر ورثة",
+    "EthbatTalaq": "إثبات طلاق",
+    "EthbatZawaj": "إثبات زواج",
+    "EthbatRagaa": "إثبات رجعة",
+    "EthbatMongez": "إثبات وقف منجز",
+    "EthbatWassiaZawjia": "إثبات وصية",
+    "EthbatDokhol": "إثبات عدم دخول بالزوجة",
+    "EthbatKholaa": "إثبات خلع",
+    "EthbatHadana": "إثبات حضانة",
+    "tawthiqRedaa": "توثيق رضاعة",
+
+
+
+
+    "homeButton": "الرئيسية",
+    "nextButton": "المزيد",
+    "prevButton": "عودة"
+
+
+
+  },
+  "attorneyPage": {
+    "title": "استعلام عن وكالة",
+    "subTitle": "خدمة تساعدك في الاستعلام عن صحة الوكالةالصادرة من وزارة العدل",
+    "attorneylabel": "رقم الوثيقة",
+    "nartionalIdLabel": "رقم الهوية",
+    "attorneyPlaceholder": "الرجاء ادخال رقم الوثيقة ",
+    "nartionalIdPlaceholder": " الرجاء ادخال رقم الهوية",
+    "infoButton": "خدمات الاستعلامات",
+    "submitButton": "استعلام",
+    "resetButton": "استعلام جديد"
+  },
+
+  "attorneyDetailsPage": {
+    "title": "استعلام عن وكالة",
+    "subTitle": "خدمة تساعدك في الاستعلام عن صحة الوكالةالصادرة من وزارة العدل",
+    "attorneylabel": "رقم الوثيقة",
+    "nartionalIdLabel": "رقم الهوية",
+    "attorneyPlaceholder": "الرجاء ادخال رقم الوثيقة ",
+    "nartionalIdPlaceholder": " الرجاء ادخال رقم الهوية",
+    "infoButton": "خدمات الاستعلامات",
+    "submitButton": "استعلام",
+    "resetButton": "استعلام جديد"
+  },
+  "detailsPage": {
+    "attorneyMessage": "لأستعراض تفاصيل الوكالة علي الجوال قم بالمسح علي الرمز المرئي",
+    "marriageMessage": "لأستعراض تفاصيل عقد الزواج علي الجوال قم بالمسح علي الرمز المرئي",
+    "deedMessage": "لأستعراض تفاصيل الصك العقاري علي الجوال قم بالمسح علي الرمز المرئي",
+    "infoButton": "خدمات الاستعلامات",
+    "resetButton": "استعلام جديد",
+    "noData": "لا يوجد بيانات"
+  },
+
+  "marriagePage": {
+    "title": "استعلام عن عقد زواج",
+    "subTitle": "خدمة تساعدك في الاستعلام عن صحة عقد الزواج المسجل الكترونيا فقط",
+    "contractNumberlabel": "رقم الوثيقة",
+    "nartionalIdLabel": "رقم الهوية",
+    "attorneyPlaceholder": "رقم الوثيقة عقد الزواج",
+    "nartionalIdPlaceholder": " رقم هويةهويةأحدالزوجين",
+    "infoButton": "خدمات الاستعلامات",
+    "submitButton": "استعلام",
+    "resetButton": "استعلام جديد"
+
+  },
+  "MarriagDetailsPage": {
+    "title": "استعلام عن عقد زواج",
+    "contractStatusLabel": "حالة العقد",
+    "contractCodeLabel": "رقم العقد",
+    "identityLabel": "رقم الهوية",
+    "courtLabel": "المحكمة",
+    "husbandNameLabel": "الزوج",
+    "husbandIdLabel": "هوية الزوج",
+    "wifeNameLabel": "الزوجة",
+    "wifeIdLabel": "هوية الزوجة",
+    "contractDateLabel": "تاريخ العقد",
+    "approveDateLabel": "تاريخ التصديق",
+    "noData": "لا يوجد بيانات"
+  },
+
+  "deedPage": {
+    "title": "استعلام عن صك عقاري",
+    "subTitle": "خدمة تساعدك في الاستعلام عن صك عقاري مسجل الكترونيا",
+    "deednolabel": "رقم الصك",
+    "nartionalIdLabel": "رقم هوية أحد الملاك",
+    "deednoPlaceholder": "رقم الصك",
+    "nartionalIdPlaceholder": " رقم الهوية",
+    "infoButton": "خدمات الاستعلامات",
+    "submitButton": "استعلام",
+    "resetButton": "استعلام جديد"
+
+  },
+  "deedDetailsPage": {
+    "title": "استعلام عن صك عقاري",
+    "numberLabel": "رقم الصك",
+    "reasonLabel": "السبب",
+    "deedStatusLabel": "حالة الصك",
+    "realStateStatusLabel": "حالة العقار",
+    "noData": "لا يوجد بيانات"
+  },
+  "admissionPage": {
+    "title": "استعلام عن اقرار",
+    "subTitle": "خدمة تساعدك في الاستعلام عن صحة الاقرار الصادر من كتابات العدل",
+    "admissionlabel": "رقم الوثيقة",
+    "nartionalIdLabel": "رقم الهوية",
+    "admissionPlaceholder": "رقم الوثيقة",
+    "nartionalIdPlaceholder": " رقم الهوية",
+    "infoButton": "خدمات الاستعلامات",
+    "submitButton": "استعلام",
+    "resetButton": "استعلام جديد"
+
+  },
+  "AdmissionDetailsPage": {
+    "title": "استعلام عن اقرار",
+    "admissionStatusLabel": "حالة الاقرار",
+    "admissionCodeLabel": "رقم الاقرار",
+    "identityLabel": "رقم الهوية",
+    "validityLabel": "الصلاحية",
+    "issueGregLabel": "تاريخ الاصدار",
+    "admissionTypeLabel": "نوع الاقرار",
+    "placeNameLabel": "المكان",
+    "noData": "لا يوجد بيانات"
+
+  },
+  "FurijatBillPage": {
+    "title": "استعلام عن فواتير فرجت",
+    "subTitle": "خدمة تساعدك في الاستعلام عن فواتير مبادرة فرجت",
+    "billNumberlabel": "رقم الفاتورة",
+    "billNumberPlaceholder": " رقم الفاتورة",
+    "infoButton": "خدمات الاستعلامات",
+    "submitButton": "استعلام",
+    "resetButton": "استعلام جديد"
+
+  },
+  "FurijatBillDetailsPage": {
+    "title": "استعلام عن فواتير فرجت",
+    "BillStatusLabel": "حالة الفاتورة",
+    "BillNumberLabel": "رقم الفاتورة",
+    "SocialIdLabel": "رقم الهوية",
+    "BillDueAmountLabel": "قيمة الفاتورة",
+    "BillPaidAmountLabel": "المبلغ المدفوع",
+    "BillRestAmountLabel": "المبلغ المتبقي",
+    "noData": "لا يوجد بيانات"
+
+  },
+
+  "TransactionPage": {
+    "title": "استعلام عن معاملة",
+    "subTitle": "خدمة تساعدك في الاستعلام عن معاملة",
+    "TransactionIdlabel": "رقم المعاملة",
+    "TransactionYearLabel": "سنة المعاملة",
+    "TransactionIdPlaceholder": "رقم المعاملة",
+    "TransactionYearPlaceholder": "يرجي ادخال السنه بالهجري",
+    "infoButton": "خدمات الاستعلامات",
+    "submitButton": "استعلام",
+    "resetButton": "استعلام جديد"
+
+  },
+  "transactionDetailsPage": {
+    "title": "استعلام عن معاملة",
+    "subTitle": "خدمة تساعدك في الاستعلام عن معاملةالصادرة من وزارة العدل",
+    "transactionNumberLabel": "رقم المعامله",
+    "statusLabel": "الحاله",
+    "transactionTypeLabel": "صفة المعامله",
+    "sourceTypeLabel": "نوع المعامله",
+    "transactionYearLabel": "سنة المعامله",
+    "currentDepartmentLabel": "الاداره الحاليه",
+    "inboundDocumentNumber": "رقم الوارد",
+    "inboundDateH": "تاريخ الوارد",
+    "attachments": "وصف المرفقات",
+    "remarks": "الملاحظات",
+    "noData": "لا يوجد بيانات"
+
+  },
+  "inhaatDeedPage": {
+    "title": "استعلام عن ",
+    "subTitle": " خدمة تساعدك على الاستعلام عن",
+    "deedNoLabel": "رقم الصك",
+    "socialIdLabel": "رقم الهوية",
+    "deedNoPlaceholder": "اكتب رقم الصك",
+    "socialIdPlaceholder": "اكتب رقم هوية مقدم الطلب",
+    "infoButton": "خدمات الاستعلامات",
+    "submitButton": "استعلام",
+    "resetButton": "استعلام جديد"
+
+  },
+  "inhaatDeedDetailsPage": {
+    "title": "استعلام عن ",
+    "subTitle": "خدمة تساعدك على الاستعلام عن ",
+    "deedNoLabel": "رقم الصك",
+    "documentationType": "نوع التوثيق",
+    "documentationDate": "تاريخ التوثيق",
+    "statusLabel": "الحاله",
+    "beneficiaryNameLabel": "أسم المستفيد",
+    "beneficiaryIdLabel": "رقم هوية المستفيد",
+    "centerNameLabel": "اسم المركز",
+    "currentDepartmentLabel": "الاداره الحاليه",
+    "inboundDocumentNumber": "رقم الوارد",
+    "inboundDateH": "تاريخ الوارد",
+    "attachments": "وصف المرفقات",
+    "remarks": "الملاحظات",
+    "DeceasedData": "بيانات المتوفي",
+    "HeirsData": "تاريخ الصك",
+    "NationalId": "رقم الهوية",
+    "DOB": "تاريخ الميلاد",
+    "Nationaility": "الجنسية",
+    "HeirStatus": "حالة الصك",
+    "noData": "لا يوجد بيانات"
+
+  },
+
+  "jurLicensePage": {
+    "title": "استعلام عن ترخيص عدلي",
+    "subTitle": "خدمة تساعدك في الاستعلام عن صحة التراخيص التي يتم اصدارها من وزارة العدل",
+    "licenseTypeLabel": "نوع الرخصه",
+    "licenseNumLabel": "رقم الترخيص",
+    "licenseNumPlaceholder": "رقم الترخيص",
+    "infoButton": "خدمات الاستعلامات",
+    "lawyerButtonLabel": "محامي",
+    "traineeButtonLabel": "متدرب",
+    "pleadButtonLabel": "ترخيص ترافع عن الشخصية المعنوية الخاصة",
+    "submitButton": "استعلام",
+    "resetButton": "استعلام جديد"
+
+  },
+  "jurLicenseDetailsPage": {
+    "title": "التحقق من ترخيص عدلي",
+    "licenseType": "نوع الترخيص",
+    "licenseNo": "رقم الرخصة",
+    "noData": "لا يوجد بيانات",
+    "serviceUnavailable":"الخدمه غير متاحه حاليا.يرجي اعادة المحاوله فى وقت لاحق"
+
+  }
+
+
+
+
+}
